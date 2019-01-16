@@ -1,0 +1,8 @@
+*.tex
+*.pdf
+**/node_modules
+**/*.zip
+**/platforms/*
+**/plugins/*
+**/demos
+
